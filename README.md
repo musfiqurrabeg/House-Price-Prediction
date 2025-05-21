@@ -1,4 +1,5 @@
-# 🏠 House Price Prediction – Predicting Home Value with Real-World Data---
+# 🏠 House Price Prediction – Predicting Home Value with Real-World Data
+---
 ![](https://nycdsa-blog-files.s3.us-east-2.amazonaws.com/2021/03/chaitali-majumder/house-price-497112-KhCJQICS.jpg)
 ---
 > A data science project that feels personal — because for many, buying a house *is* personal.
